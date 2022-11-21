@@ -16,6 +16,7 @@
 - <a href="https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK?si=499bb3f6b8054daf">folklore </a>
 - <a href="https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG?si=3bc947f1fac3494d">evermore </a>
 - <a href="https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=5c1b5ec01d8140bf">Midnights </a>
+
 [![Taylor Album](https://user-images.githubusercontent.com/118233838/203084208-730271f2-7bfe-47bd-9b26-f808db86a2ca.png)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH)
 
 
