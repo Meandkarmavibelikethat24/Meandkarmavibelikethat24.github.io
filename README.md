@@ -4,4 +4,6 @@
 
 ![Taylor Swift - Fearless]([https://www.platinumgames.com/wp-content/uploads/2016/03/A2-1.jpg](https://i.insider.com/6025440acca90200129b7b41?width=1200&format=jpeg)
 
+<a href="https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH">Fearless - Taylor's Version</a>
+
 
