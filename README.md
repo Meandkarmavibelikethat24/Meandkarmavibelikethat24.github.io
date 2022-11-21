@@ -6,7 +6,7 @@
 
 <a href="https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH">Fearless - Taylor's Version</a>
 
-![Taylor Album](https://user-images.githubusercontent.com/99858112/155126762-6e3a0aae-767a-40bd-9aa5-8451e1690d2d.png)]([https://nierautomata.square-enix-games.com/en-us/home/](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH)
+![Taylor Album](https://user-images.githubusercontent.com/99858112/155126762-6e3a0aae-767a-40bd-9aa5-8451e1690d2d.png)(https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH)
 
 
 
