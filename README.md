@@ -7,7 +7,7 @@
 <p>Her debut studio album Taylor Swift was released on October 24, 2006 - a country record with pop and pop rock elements. Her self-titled debut album made her the first female country singer to write or co-write a US platinum-certified album entirely.</p> 
 <a href="https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=4W34Is6hSIGS6yiwympRNA">Taylor Swift - Spotify</a>
 
-[![Taylor Album](https://user-images.githubusercontent.com/118233838/203084208-730271f2-7bfe-47bd-9b26-f808db86a2ca.png))]([https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=4W34Is6hSIGS6yiwympRNA)
+[![Taylor Album](https://user-images.githubusercontent.com/118233838/203084208-730271f2-7bfe-47bd-9b26-f808db86a2ca.png)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=4W34Is6hSIGS6yiwympRNA)
 
 
 
