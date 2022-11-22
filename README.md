@@ -4,6 +4,10 @@
 
 ![Taylor Swift](https://www.rollingstone.com/wp-content/uploads/2022/10/taylor-swift-midnights-press.jpg?w=1581&h=1054&crop=1)
 ---
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 ![Taylor Swift](https://scontent.xx.fbcdn.net/v/t1.15752-9/316143258_852697289197905_1704580835181417933_n.png?stp=dst-png_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHzAwXqYxK--Ax-u-ySXXNTeaI0Uf6Goex5ojRR_oah7PlHb8yBCQi8WxQn1JBmR_KSxwFPVZrvO7S90wULTkD7&_nc_ohc=DbND1Zs80JcAX-LWbh3&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTFDTEcLSe8M8OC0HqNPfX2jvBJsVyweCBoGBlvrlBOQw&oe=63A31321)
 ---
 - Her debut studio album <a href="https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=4W34Is6hSIGS6yiwympRNA">Taylor Swift </a> was released on October 24, 2006 - a country record with pop and pop rock elements. The self-titled debut album made her the first female country singer to write or co-write a US platinum-certified album entirely. Taylor Swift was nominated for Album of the Year at the 2008 Academy of Country Music Awards and earned Swift a Grammy nomination for Best New Artist. Having spent 24 weeks at number one on Top Country Albums and peaked at number five on the Billboard 200, Taylor Swift is the longest-charting album of the 2000s decade. 
